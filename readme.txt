@@ -11,3 +11,4 @@ remote change
 new branch change
 back to master to solve flush Chage self
 management stragy
+bug fixed
