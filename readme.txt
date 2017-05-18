@@ -9,4 +9,4 @@ git tracks first
 git tracks second
 remote change
 new branch change
-back to master to solve flush
+back to master to solve flush Chage self
