@@ -10,12 +10,10 @@ git tracks second
 remote change
 new branch change
 back to master to solve flush Chage self
+addd towoooq
 management stragy
 bug fixe
 
-
-ouououou
 lllllllllllllqfsd
 conficlikc444
-conflil5555
-d
+conflil55553543543
