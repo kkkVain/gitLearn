@@ -15,10 +15,6 @@ management stragy
 ouououou
 confili111
 confilcik2222
-conficls333
-lllllllllllllqfsd
-conficlikc444
+conficls
 conflil5555
 lllllllllllllqfsd
-conficlikc444
-conflil5555
