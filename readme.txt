@@ -3,8 +3,7 @@ my git test two
 my git changed
 third changed
 tmp and work
-git tracks first
-
+shenmeya
 
 git tracks second
 remote change
@@ -14,6 +13,9 @@ addd towoooq
 management stragy
 bug fixe
 
-lllllllllllllqfsd
 conficlikc444
 conflil55553543543
+wwo haoxinagzhidaole
+why thin
+git tracks second
+get daole youbudongle
