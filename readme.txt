@@ -3,6 +3,7 @@ my git test two
 my git changed
 third changed
 tmp and work
+
 shenmeya
 
 git tracks second
@@ -19,3 +20,9 @@ wwo haoxinagzhidaole
 why thin
 git tracks second
 get daole youbudongle
+
+
+git tracks second
+get daole ma
+
+i begin to mis
