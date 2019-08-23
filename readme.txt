@@ -1,10 +1,10 @@
-my git test
-my git test two
-my git changed
+my gfdsdfst testsfsa
+my afdsfgit testfsafs two
+my gisfsaft chanafdsfsdged
 third changed
-tmp and work
+tmp and woafsdrk
 git tracks first
-
+dkfjlkjlsafsfj
 
 git tracks second
 remote change
